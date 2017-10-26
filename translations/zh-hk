@@ -1,0 +1,12 @@
+{
+  "language": {
+    "en": "zh-hk"
+  },
+  "panel": {
+    "states": "狀態",
+    "map": "地圖",
+    "logbook": "日誌",
+    "history": "記錄",
+    "log_out": "登出"
+  }
+}
